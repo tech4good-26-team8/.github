@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/logo.png" width="120" alt="Familog 로고" />
+<img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/logo.png" width="120" alt="Familog 로고" />
 
 # Familog
 
@@ -78,13 +78,13 @@
 
 | 온보딩 · 아바타 생성 | 홈 (아바타 그리드) | 채팅 · 음성 낭독 | 갤러리 |
 |:---:|:---:|:---:|:---:|
-| <img src="docs/images/demo_onboarding.png" width="180" /> | <img src="docs/images/demo_home.png" width="180" /> | <img src="docs/images/demo_chat.png" width="180" /> | <img src="docs/images/demo_gallery.png" width="180" /> |
+| <img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/demo_onboarding.png" width="180" /> | <img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/demo_home.png" width="180" /> | <img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/demo_chat.png" width="180" /> | <img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/demo_gallery.png" width="180" /> |
 
 ---
 
 ## 시스템 아키텍처
 
-<img src="docs/images/architecture.png" width="800" alt="시스템 아키텍처" />
+<img src="https://raw.githubusercontent.com/tech4good-26-team8/familog-server/main/docs/images/architecture.png" width="800" alt="시스템 아키텍처" />
 
 **설계 포인트**
 
