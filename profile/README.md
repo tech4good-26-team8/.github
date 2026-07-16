@@ -41,6 +41,8 @@
 
 ## 서비스 소개
 
+음성AI 기술로 시니어의 디지털 소통을 돕고, 가족의 온기를 다시 연결하는 소통 플랫폼
+
 ### 문제
 
 스마트폰과 SNS는 이미 가족 소통의 기본 창구지만, 시니어에게는 벽이 높습니다.
@@ -107,7 +109,7 @@
 
 ## API 명세
 
-전체 명세: [docs/03_API_SPEC.md](docs/03_API_SPEC.md) · 상세 스키마: Swagger UI (`/swagger-ui`)
+전체 명세: [docs/03_API_SPEC.md](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/03_API_SPEC.md) · 상세 스키마: Swagger UI (`/swagger-ui`)
 
 | 도메인 | Method | Path | 설명 |
 |--------|--------|------|------|
@@ -134,13 +136,13 @@
 
 | 문서 | 내용 |
 |------|------|
-| [01_PROJECT_OVERVIEW](docs/01_PROJECT_OVERVIEW.md) | 서비스 기획 — 문제 정의, 핵심 가설, 4대 기능, 기대 효과 |
-| [02_TECH_FLOW](docs/02_TECH_FLOW.md) | 기술 플로우 — 비동기 생성 패턴, AI 서버 계약, 기술 결정 기록 |
-| [03_API_SPEC](docs/03_API_SPEC.md) | API 전체 지도 (server + ai) |
-| [04_CONVENTIONS](docs/04_CONVENTIONS.md) | 협업 규칙 — 커밋 포맷, 브랜치 전략, 명명 규칙 |
-| [05_ARCHITECTURE](docs/05_ARCHITECTURE.md) | 시스템 아키텍처 — 책임 분리, 패키지 구조, 비동기 처리 |
-| [06_ERD](docs/06_ERD.md) | 데이터 모델 — 테이블 정의, 상태 enum |
-| [07_DEPLOY](docs/07_DEPLOY.md) | GCP GPU VM 배포 — systemd, 재배포 스크립트, 체크리스트 |
+| [01_PROJECT_OVERVIEW](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/01_PROJECT_OVERVIEW.md) | 서비스 기획 — 문제 정의, 핵심 가설, 4대 기능, 기대 효과 |
+| [02_TECH_FLOW](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/02_TECH_FLOW.md) | 기술 플로우 — 비동기 생성 패턴, AI 서버 계약, 기술 결정 기록 |
+| [03_API_SPEC](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/03_API_SPEC.md) | API 전체 지도 (server + ai) |
+| [04_CONVENTIONS](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/04_CONVENTIONS.md) | 협업 규칙 — 커밋 포맷, 브랜치 전략, 명명 규칙 |
+| [05_ARCHITECTURE](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/05_ARCHITECTURE.md) | 시스템 아키텍처 — 책임 분리, 패키지 구조, 비동기 처리 |
+| [06_ERD](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/06_ERD.md) | 데이터 모델 — 테이블 정의, 상태 enum |
+| [07_DEPLOY](https://github.com/tech4good-26-team8/familog-server/blob/main/docs/07_DEPLOY.md) | GCP GPU VM 배포 — systemd, 재배포 스크립트, 체크리스트 |
 
 ---
 
